@@ -42,7 +42,7 @@ INSTALLATION
 
 Step 1: Clone the repository
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/ali3618razahacker-dev/gui-task-manager/
 
 Step 2: Install required library
 
