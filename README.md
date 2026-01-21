@@ -111,3 +111,8 @@ Cloud sync support
 Light and dark theme toggle
 
 Mobile app version
+
+
+<br>
+
+<img width="1280" height="1024" alt="Screenshot from 2026-01-21 15-59-50" src="https://github.com/user-attachments/assets/8a95582b-a45c-429b-ab12-e31a2a1f1b53" />
